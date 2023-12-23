@@ -28,6 +28,6 @@
 
 
 <div align=center> 
-  <div><img align="left" src="https://github-readme-stats.vercel.app/api?username=wogud98&show_icons=true&locale=en" alt="wogud98" /></div>
-  <div><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wogud98&" alt="wogud98" /></div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wogud98&show_icons=true&locale=en" alt="wogud98" /></p>
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wogud98&" alt="wogud98" /></p>
 </div>
