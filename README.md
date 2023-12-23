@@ -27,7 +27,8 @@
 <br>
 
 
-<div align=center> 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=wogud98&show_icons=true&locale=en" alt="wogud98" /></p>
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wogud98&" alt="wogud98" /></p>
-</div>
+<!--
+<div align=left><h1>📚 GitHub Stats</h1></div>
+  <div align=center> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wogud98&show_icons=true&locale=en" alt="wogud98" /> </p></div>
+  <div align=center> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wogud98&" alt="wogud98" /></p ></div>
+-->
