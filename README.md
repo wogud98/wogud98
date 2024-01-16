@@ -4,6 +4,7 @@
 <h3 align="left">backend developer from korea</h3>
 
 - 📫 How to reach me **kjh3136352@gmail.com**
+- 📝 https://www.notion.so/2ca46b7bbdd94d3092224dee830da40d
 <br>
 <br>
 
