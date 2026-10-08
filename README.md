@@ -130,13 +130,13 @@
 -->
 <br>
 <p align="center">
- <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=wogud98&utm_content=line">
-   <img
-     src="https://render.gitanimals.org/lines/wogud98"
-     width="600"
-     height="120"
-   />
- </a>
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=wogud98&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/wogud98"
+      width="600"
+      height="300"
+    />
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="25" height="25" align="RIGHT" />
