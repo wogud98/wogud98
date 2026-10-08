@@ -123,6 +123,11 @@
 
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogud98&theme=dark&show_icons=true)
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wogud98&repo=ALEPH&theme=chartreuse-dark" width="400" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=wogud98&theme=dark&show_icons=true" width="400" height="200">
+</p>
+
 <br>
 <br>
