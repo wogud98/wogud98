@@ -134,7 +134,7 @@
 -->
 
 <br>
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tiger%20Face.png" alt="Tiger Face" width="25" height="25" />
 <p align="center">
  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=wogud98&utm_content=line">
    <img
