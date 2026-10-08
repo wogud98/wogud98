@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=&fontSize=50)
+
 # 안녕하십니까 🫡
 
 **문제가 풀릴 때까지 끝까지 파고드는 집요한 문제해결자**입니다.
