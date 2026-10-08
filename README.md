@@ -2,12 +2,11 @@
 
 # 안녕하십니까  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tiger%20Face.png" alt="Tiger Face" width="25" height="25" />
 
-**문제가 풀릴 때까지 끝까지 파고드는 집요한 문제해결자**입니다.
+**집요한 문제해결자**
 
- 지능로봇공학을 전공했고, 국방 M&S(Modeling & Simulation) 소프트웨어를 약 2년 8개월간 유지보수·개발했습니다.
-오래된 레거시 코드를 분석하고 기능을 추가하며, 문제가 발생하면 원인을 끝까지 추적해 해결해 왔습니다.
-<br>
-지금은 그 문제 해결 방식과 더불어 **AI를 활용**하고 식견을 넓히기 위해 SKT ALEPH에서 네트워크·보안·AI를 공부하고 있습니다.
+파일 하나가 1만 라인이 넘는 레거시 코드를 분석하고 기능을 추가하며, 국방 M&S 소프트웨어를 약 2년 8개월간 유지보수·개발했습니다. 문제가 생기면 원인을 끝까지 추적해 해결해 왔습니다.
+
+지금은 [SKT ALEPH](https://news.sktelecom.com/226861)에서 네트워크·보안을 공부하며, AI 도구로 직접 서비스를 만들어 보고 있습니다.
 
 <br>
 <br>
