@@ -2,7 +2,7 @@
 
 # 안녕하십니까  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tiger%20Face.png" alt="Tiger Face" width="25" height="25" />
 
-# 집요한 문제해결자
+**집요한 문제해결자**
 
 1만 라인이 넘는 레거시 코드를 분석하고 기능을 추가하며, 약 2년 8개월간 국방 M&S 소프트웨어를 유지보수·개발했습니다. 문제가 발생하면 원인을 추적하고 해결책을 찾아 적용해 왔습니다.
 
