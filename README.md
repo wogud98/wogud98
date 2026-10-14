@@ -13,7 +13,7 @@
 <br>
 <br>
 
-## 🛠 Tech Stack
+## Tech Stack 
 
 <table>
   <tr><th width="180">구분</th><th width="680">기술</th></tr>
@@ -46,7 +46,7 @@
 
 <br>
 
-## 🗓 Timeline
+## Timeline
 
 <table>
   <tr><th width="180">기간</th><th width="680">내용</th></tr>
@@ -60,7 +60,7 @@
 <br>
 <br>
 
-## 💼 Experience
+## Experience
 
 ### 국방 M&S 소프트웨어 기업 — 유지보수·개발 (2024.02 ~ 2026.09)
 
@@ -75,7 +75,7 @@
 <br>
 <br>
 
-## 🎓 Projects
+## Projects
 
 <table>
   <tr><th width="180">프로젝트</th><th width="680">내용</th></tr>
@@ -112,7 +112,7 @@
 <br>
 <br>
 
-## 📚 Education
+## Education
 
 - **SKT ALEPH** — 네트워크·보안·AI 활용 과정 (2026.09 ~ )
 - **지능로봇공학과** 학사 (2017 ~ 2021)
@@ -130,6 +130,8 @@
 </p>
 <br>
 -->
+
+<!--
 <br>
 <p align="center">
   <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=wogud98&utm_content=farm">
@@ -142,6 +144,9 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="25" height="25" align="RIGHT" />
+
+-->
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=&fontSize=50)
 
