@@ -36,10 +36,6 @@
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -90,7 +86,8 @@
       <ul>
         <li>사람인·잡코리아 채용공고를 모아 <b>내 프로필과 비교해 항목별 점수·강점·부족한 점</b>을 정리하는 AI 취업 비서</li>
         <li>LLM은 항목 점수만 매기고 종합점수·판정은 코드로 계산해 결과가 흔들리지 않게 설계</li>
-        <li>AI 코딩 에이전트(Claude Code)와 요구사항 &rarr; 설계(UML) &rarr; 구현 &rarr; 테스트 순서로 개발, 테스트·CI로 품질 관리</li>
+        <li>구현은 AI 코딩 에이전트(Claude Code)에 맡기고, 요구사항 정의·설계 검토·기능 결정은 직접 하며 버전 단위(요구사항 &rarr; 설계 &rarr; 구현 &rarr; 테스트)로 진행</li>
+        <li><b>하네스 엔지니어링</b>: 작업 규칙(CLAUDE.md), 외부 API 없는 자동 테스트, 린트, CI, 비밀정보 검사로 AI가 만든 결과물의 품질을 강제</li>
         <li>저장소 &rarr; <a href="https://github.com/wogud98/jobvis">wogud98/jobvis</a></li>
       </ul>
     </td>
