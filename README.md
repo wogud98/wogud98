@@ -90,12 +90,10 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>졸음운전 방지 시스템</b><br><sub>졸업작품</sub></td>
+    <td align="center"><b>SKT ALEPH 챌린지</b><br><sub>교육 과제</sub></td>
     <td>
-      <code>Python</code> <code>OpenCV</code>
       <ul>
-        <li>OpenCV로 안구를 인식하고 <b>눈 깜빡임의 속도·주기</b>로 졸음 상태 판단</li>
-        <li>졸음으로 판단되면 경고를 울려 사고 예방</li>
+        <li>교육 과제 결과물 모음 &rarr; <a href="https://github.com/wogud98/ALEPH">wogud98/ALEPH</a></li>
       </ul>
     </td>
   </tr>
@@ -110,10 +108,12 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>SKT ALEPH 챌린지</b><br><sub>교육 과제</sub></td>
+    <td align="center"><b>졸음운전 방지 시스템</b><br><sub>졸업작품</sub></td>
     <td>
+      <code>Python</code> <code>OpenCV</code>
       <ul>
-        <li>교육 과제 결과물 모음 &rarr; <a href="https://github.com/wogud98/ALEPH">wogud98/ALEPH</a></li>
+        <li>OpenCV로 안구를 인식하고 <b>눈 깜빡임의 속도·주기</b>로 졸음 상태 판단</li>
+        <li>졸음으로 판단되면 경고를 울려 사고 예방</li>
       </ul>
     </td>
   </tr>
