@@ -80,6 +80,16 @@
 <table>
   <tr><th width="180">프로젝트</th><th width="680">내용</th></tr>
   <tr>
+    <td align="center"><b><a href="https://github.com/wogud98/jobvis">JOBVIS</a></b><br><sub>개인 프로젝트<br>2026.10</sub></td>
+    <td>
+      <code>Python</code> <code>LangGraph</code> <code>Streamlit</code> <code>Docker</code>
+      <ul>
+        <li>채용공고를 모아 <b>내 프로필과 비교해 점수·강점·부족한 점</b>을 정리하는 AI 취업 비서</li>
+        <li>AI 코딩 에이전트로 구현하고, <b>하네스 엔지니어링</b>(작업 규칙·자동 테스트·CI)으로 품질 관리</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>졸음운전 방지 시스템</b><br><sub>졸업작품</sub></td>
     <td>
       <code>Python</code> <code>OpenCV</code>
