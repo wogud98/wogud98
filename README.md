@@ -80,15 +80,12 @@
 <table>
   <tr><th width="180">프로젝트</th><th width="680">내용</th></tr>
   <tr>
-    <td align="center"><b>JOBVIS</b><br><sub>개인 프로젝트<br>2026.10</sub></td>
+    <td align="center"><b><a href="https://github.com/wogud98/jobvis">JOBVIS</a></b><br><sub>개인 프로젝트<br>2026.10</sub></td>
     <td>
-      <code>Python</code> <code>LangGraph</code> <code>LangChain</code> <code>Streamlit</code> <code>Docker</code> <code>PostgreSQL</code>
+      <code>Python</code> <code>LangGraph</code> <code>Streamlit</code> <code>Docker</code>
       <ul>
-        <li>사람인·잡코리아 채용공고를 모아 <b>내 프로필과 비교해 항목별 점수·강점·부족한 점</b>을 정리하는 AI 취업 비서</li>
-        <li>LLM은 항목 점수만 매기고 종합점수·판정은 코드로 계산해 결과가 흔들리지 않게 설계</li>
-        <li>구현은 AI 코딩 에이전트(Claude Code)에 맡기고, 요구사항 정의·설계 검토·기능 결정은 직접 하며 버전 단위(요구사항 &rarr; 설계 &rarr; 구현 &rarr; 테스트)로 진행</li>
-        <li><b>하네스 엔지니어링</b>: 작업 규칙(CLAUDE.md), 외부 API 없는 자동 테스트, 린트, CI, 비밀정보 검사로 AI가 만든 결과물의 품질을 강제</li>
-        <li>저장소 &rarr; <a href="https://github.com/wogud98/jobvis">wogud98/jobvis</a></li>
+        <li>채용공고를 모아 <b>내 프로필과 비교해 점수·강점·부족한 점</b>을 정리하는 AI 취업 비서</li>
+        <li>AI 코딩 에이전트로 구현하고, <b>하네스 엔지니어링</b>(작업 규칙·자동 테스트·CI)으로 품질 관리</li>
       </ul>
     </td>
   </tr>
