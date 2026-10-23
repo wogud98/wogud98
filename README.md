@@ -36,6 +36,10 @@
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -79,6 +83,18 @@
 
 <table>
   <tr><th width="180">프로젝트</th><th width="680">내용</th></tr>
+  <tr>
+    <td align="center"><b>JOBVIS</b><br><sub>개인 프로젝트<br>2026.10</sub></td>
+    <td>
+      <code>Python</code> <code>LangGraph</code> <code>LangChain</code> <code>Streamlit</code> <code>Docker</code> <code>PostgreSQL</code>
+      <ul>
+        <li>사람인·잡코리아 채용공고를 모아 <b>내 프로필과 비교해 항목별 점수·강점·부족한 점</b>을 정리하는 AI 취업 비서</li>
+        <li>LLM은 항목 점수만 매기고 종합점수·판정은 코드로 계산해 결과가 흔들리지 않게 설계</li>
+        <li>AI 코딩 에이전트(Claude Code)와 요구사항 &rarr; 설계(UML) &rarr; 구현 &rarr; 테스트 순서로 개발, 테스트·CI로 품질 관리</li>
+        <li>저장소 &rarr; <a href="https://github.com/wogud98/jobvis">wogud98/jobvis</a></li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td align="center"><b>졸음운전 방지 시스템</b><br><sub>졸업작품</sub></td>
     <td>
