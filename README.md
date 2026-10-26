@@ -90,10 +90,12 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>SKT ALEPH 챌린지</b><br><sub>교육 과제</sub></td>
+    <td align="center"><b><a href="https://github.com/wogud98/ALEPH">SKT ALEPH 챌린지</a></b><br><sub>교육 과제<br>2026.09 ~</sub></td>
     <td>
+      <code>JavaScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>GitHub Actions</code>
       <ul>
-        <li>교육 과제 결과물 모음 &rarr; <a href="https://github.com/wogud98/ALEPH">wogud98/ALEPH</a></li>
+        <li>SKT ALEPH 과정의 챌린지 과제(T01–T07) 결과물을 모은 저장소</li>
+        <li>자기소개 페이지·브라우저 게임·이미지 문구 편집기부터 환율 자동 수집, <b>PostgreSQL 다이어리 앱과 로그인</b>(Render 배포)까지</li>
       </ul>
     </td>
   </tr>
