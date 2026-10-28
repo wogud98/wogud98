@@ -41,9 +41,10 @@
   <tr>
     <td align="center"><b>공부 중</b></td>
     <td>
+      <span style="white-space: pre;">&#9;AI 활용, 네트워크, 보안 &nbsp; </span>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/>
-      <br>AI 활용, 네트워크, 보안
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
   </tr>
 </table>
